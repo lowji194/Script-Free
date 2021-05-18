@@ -1,3 +1,4 @@
-function myFunction() {
-console.log('concac');
-}
+functionmyfunction()   
+ {   
+document.write("welcome to Javatpoint");  
+         }  
